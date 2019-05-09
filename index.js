@@ -49,3 +49,5 @@ var kittens = ['Milo', 'Otis', 'Garfield'];
 appendKitten('Broom');
 
 prependKitten('Arnold');
+
+removeLastKitten();
